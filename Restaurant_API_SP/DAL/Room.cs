@@ -14,7 +14,7 @@ namespace Restaurant_API_SP.DAL
         public string Description { get; set; }
 
        // public virtual Booking Booking { get; set; }
-        //public virtual User User { get; set; }
+       //public virtual User User { get; set; }
     }
 
 }
