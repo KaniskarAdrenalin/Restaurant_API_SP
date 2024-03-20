@@ -12,6 +12,6 @@ namespace Restaurant_API_SP.DAL
         public string Password { get; set; }
         public string Email { get; set; }
 
-        public virtual Room Room { get; set; }
+       // public virtual Room Room { get; set; }
     }
 }
